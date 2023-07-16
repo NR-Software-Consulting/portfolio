@@ -1,7 +1,6 @@
 export const HeaderData = [
-  { name: "Front-End Skills" },
-  { name: "Back-End Skills" },
   { name: "Portfolio" },
+  { name: "Skills" },
   { name: "About Me" },
   { name: "Contact-Us" },
 ];
@@ -52,4 +51,16 @@ export const ContactMeData = [
     name: "razasabir23@outlook.com",
     logo: "/email.png",
   },
+];
+
+export const SkillsData = [
+  { name: "React/Next", rating: "100%" },
+  { name: "HTML", rating: "100%" },
+  { name: "CSS", rating: "100%" },
+  { name: "Bootstrap", rating: "70%" },
+  { name: "Tailwind", rating: "70%" },
+  { name: "JavaScript", rating: "70%" },
+  { name: "GitHub", rating: "80%" },
+  { name: "Strapi", rating: "80%" },
+  { name: "Office", rating: "100%" },
 ];

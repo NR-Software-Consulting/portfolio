@@ -2,7 +2,8 @@ export const styles = {
   MainBox: {
     display: "flex",
     alignItems: "center",
-    height: "100vh",
+    paddingTop: "201px",
+    paddingBottom: "201px",
   },
   MainGrid: {
     alignItems: "center",
